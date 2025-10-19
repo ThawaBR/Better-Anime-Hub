@@ -1,6 +1,6 @@
 # Better-Anime-Hub
 
-Access all anime and advanced features in a single hub.
+Access all animes and advanced features in a single hub.
 
 ## How to use
 
