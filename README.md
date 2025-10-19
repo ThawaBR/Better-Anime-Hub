@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
 - Player:
   - Show Players: Toggle player visibility
   - Player Info: Detailed player information (coins, kills, wins, equipment)
-  - Fling: 
+  - Fling: Throw other players away
   - Anti Fling: Protection against fling attacks
   - ESP (Line): Lines pointing to other players
   - Noclip: Walk through walls
