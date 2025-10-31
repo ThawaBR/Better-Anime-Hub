@@ -39,7 +39,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
   - Rejoin: Rejoin current server
 
 ## Status
-- Version: 1.0.1
+- Version: 1.0.2
 
 ## Developers
 - Creator: ThawaBr
