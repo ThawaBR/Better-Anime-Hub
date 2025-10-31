@@ -22,6 +22,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
   - Tag VIP: Activate VIP tag
   - Infinite Jump: Unlimited jumping
   - Speed: Increased movement speed
+  - Auto Collect Candy
 
 - Teleport:
 
